@@ -8,8 +8,6 @@ Spring Web
 
 Spring Data JPA
 
-Spring Validation
-
 H2 In-Memory Database
 
 Maven for build automation
@@ -17,6 +15,7 @@ Maven for build automation
 JUnit 5 for unit testing
 
  Project Setup Instructions
+ 
 1️ Prerequisites
 
 Before running the project, make sure you have installed:
@@ -28,9 +27,11 @@ Maven 3.9+
 Any IDE (Eclipse, IntelliJ, VS Code)
 
 Environment Setup
+
 Clone the Repository
 git clone https://github.com/NikolaOpacicc/canteen-reservation.git
 cd canteen-reservation
+ 
  Build Instructions
 
 To build the project, run:
